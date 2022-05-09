@@ -1,4 +1,5 @@
 ###Wassup
+Tests here include initial designs for automation of forms and site feature testing. 
 
 <!--
 - 🔭 I’m currently working on www.differentstream.com a trash and waste Upcycling Application 
