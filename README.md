@@ -1,1 +1,1 @@
-Go, Kube, Thanos, Prometheus.
+Robotics, automations, app builds, and cool deployments. 
